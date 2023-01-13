@@ -1,0 +1,19 @@
+# Usage Dependency
+
+# upgrade jupyter
+jupyter
+ipywidgets
+nbconvert
+
+# install all dependencies
+calltraces>=2022.7.5.2
+pandas>=1.4.3
+tqdm>=4.64.0
+networkx>=2.8.5
+python-dotenv
+matplotlib
+
+# Azure services
+azure-storage-blob
+azure-identity
+azure-cognitiveservices-speech
