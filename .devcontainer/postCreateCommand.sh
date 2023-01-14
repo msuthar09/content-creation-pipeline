@@ -1,6 +1,3 @@
-# Remove Windows EndOfLine \r to run in unix env
-# sed -i 's/\r$//' postCreateCommand.sh
-
 # Initialize all Git submodules
 git config --global --replace-all "safe.directory" "*"
 # git submodule update --init
